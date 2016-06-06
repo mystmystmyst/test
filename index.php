@@ -1,3 +1,3 @@
-<?php echo 'glaster.ru';
+<?php
 phpinfo();
 echo'111';
